@@ -1,4 +1,4 @@
-# tiktok-captcha-solver
+# TikTok Captcha Solver
 
 TikTok Captcha Solver Solution.
 
